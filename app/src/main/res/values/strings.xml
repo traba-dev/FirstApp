@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Primera App</string>
+    <string name="name_buttonOne">Ingresa tu nombre</string>
+    <string name="back">Back Home</string>
+    <string name="GO">GO</string>
+</resources>
